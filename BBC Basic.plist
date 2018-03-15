@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BBEditDocumentType</key>
+	<string>CodelessLanguageModule</string>
+	<key>BBLMColorsSyntax</key>
+	<true/>
+	<key>BBLMIsCaseSensitive</key>
+	<true/>
+	<key>BBLMKeywordList</key>
+	<array>
+		<string>ACS</string>
+		<string>ADVAL</string>
+		<string>AND</string>
+		<string>ASC</string>
+		<string>ASN</string>
+		<string>AUTO</string>
+		<string>BGET</string>
+		<string>BPUT</string>
+		<string>COLOUR</string>
+		<string>CALL</string>
+		<string>CHAIN</string>
+		<string>CHR$</string>
+		<string>CLEAR</string>
+		<string>CLOSE</string>
+		<string>CLOSE#</string>
+		<string>CLG</string>
+		<string>CLS</string>
+		<string>COS</string>
+		<string>DATA</string>
+		<string>DEG</string>
+		<string>DEF</string>
+		<string>DELETE</string>
+		<string>DIV</string>
+		<string>DIM</string>
+		<string>DRAW</string>
+		<string>ENDPROC</string>
+		<string>END</string>
+		<string>ENVELOPE</string>
+		<string>ELSE</string>
+		<string>EVAL</string>
+		<string>ERL</string>
+		<string>EOF</string>
+		<string>EOF#</string>
+		<string>EOR</string>
+		<string>ERR</string>
+		<string>EXP</string>
+		<string>EXT</string>
+		<string>FOR</string>
+		<string>FALSE</string>
+		<string>FN</string>
+		<string>GOTO</string>
+		<string>GET$</string>
+		<string>GET</string>
+		<string>GOSUB</string>
+		<string>GCOL</string>
+		<string>HIMEM</string>
+		<string>INPUT</string>
+		<string>INPUT#</string>
+		<string>IF</string>
+		<string>INKEY$</string>
+		<string>INKEY</string>
+		<string>INT</string>
+		<string>INSTR</string>
+		<string>LIST</string>
+		<string>LOAD</string>
+		<string>LOMEM</string>
+		<string>LOCAL</string>
+		<string>LEFT$</string>
+		<string>LEN</string>
+		<string>LET</string>
+		<string>LOG</string>
+		<string>LN</string>
+		<string>MID$</string>
+		<string>MODE</string>
+		<string>MOD</string>
+		<string>MOVE</string>
+		<string>NEXT</string>
+		<string>NEW</string>
+		<string>NOT</string>
+		<string>OLD</string>
+		<string>OR</string>
+		<string>OPENIN</string>
+		<string>OPENOUT</string>
+		<string>PRINT</string>
+		<string>PAGE</string>
+		<string>PTR</string>
+		<string>PI</string>
+		<string>PLOT</string>
+		<string>PROC</string>
+		<string>POS</string>
+		<string>RETURN</string>
+		<string>REPEAT</string>
+		<string>REPORT</string>
+		<string>READ</string>
+		<string>RUN</string>
+		<string>RAD</string>
+		<string>RESTORE</string>
+		<string>RIGHT$</string>
+		<string>RND</string>
+		<string>RENUMBER</string>
+		<string>SAVE</string>
+		<string>STEP</string>
+		<string>SGN</string>
+		<string>SIN</string>
+		<string>SQR</string>
+		<string>SOUND</string>
+		<string>SPC</string>
+		<string>STR$</string>
+		<string>STRING$</string>
+		<string>STOP</string>
+		<string>TAN</string>
+		<string>TAB</string>
+		<string>TIME</string>
+		<string>TO</string>
+		<string>TRACE</string>
+		<string>TRUE</string>
+		<string>UNTIL</string>
+		<string>USR</string>
+		<string>VDU</string>
+		<string>VAL</string>
+		<string>VPOS</string>
+		<string>WIDTH</string>
+	</array>
+	<key>BBLMPredefinedNameList</key>
+	<array>
+		<string>ORG</string>
+		<string>P%</string>
+		<string>ADC</string>
+		<string>ASL</string>
+		<string>BCC</string>
+		<string>BCS</string>
+		<string>BEQ</string>
+		<string>BIT</string>
+		<string>BMI</string>
+		<string>BNE</string>
+		<string>BPL</string>
+		<string>BRA</string>
+		<string>BRK</string>
+		<string>BVC</string>
+		<string>BVS</string>
+		<string>CLC</string>
+		<string>CLD</string>
+		<string>CLI</string>
+		<string>CLV</string>
+		<string>CMP</string>
+		<string>CPX</string>
+		<string>CPY</string>
+		<string>DEC</string>
+		<string>DEX</string>
+		<string>DEY</string>
+		<string>INC</string>
+		<string>INX</string>
+		<string>INY</string>
+		<string>JMP</string>
+		<string>JSR</string>
+		<string>LDA</string>
+		<string>LDX</string>
+		<string>LDY</string>
+		<string>LSR</string>
+		<string>NOP</string>
+		<string>ORA</string>
+		<string>PHA</string>
+		<string>PHP</string>
+		<string>PHX</string>
+		<string>PHY</string>
+		<string>PLA</string>
+		<string>PLP</string>
+		<string>PLX</string>
+		<string>PLY</string>
+		<string>ROL</string>
+		<string>ROR</string>
+		<string>RTI</string>
+		<string>RTS</string>
+		<string>SBC</string>
+		<string>SEC</string>
+		<string>SED</string>
+		<string>SEI</string>
+		<string>STA</string>
+		<string>STX</string>
+		<string>STY</string>
+		<string>STZ</string>
+		<string>TAX</string>
+		<string>TAY</string>
+		<string>TRB</string>
+		<string>TSB</string>
+		<string>TSX</string>
+		<string>TXA</string>
+		<string>TXS</string>
+		<string>TYA</string>
+		<string>EQUB</string>
+		<string>EQUW</string>
+		<string>EQUD</string>
+		<string>EQUS</string>
+	</array>
+	<key>BBLMLanguageCode</key>
+	<string>BBC</string>
+	<key>BBLMLanguageDisplayName</key>
+	<string>BBC Basic</string>
+	<key>BBLMScansFunctions</key>
+	<true/>
+	<key>BBLMSuffixMap</key>
+	<array>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.bas</string>
+		</dict>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.bbc</string>
+		</dict>
+	</array>
+	<key>Language Features</key>
+	<dict>
+		<key>Identifier and Keyword Characters</key>
+		<string>$;#~%*&lt;&gt;_.ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz</string>
+		<key>Prefix for Functions</key>
+		<string>FN</string>
+		<key>Prefix for Procedures</key>
+		<string>PROC</string>
+		<key>Open Parameter Lists</key>
+		<string>(</string>
+		<key>Close Parameter Lists</key>
+		<string>)</string>
+		<key>Terminator for Prototypes 1</key>
+		<string></string>
+		<key>Terminator for Prototypes 2</key>
+		<string></string>
+		<key>Open Statement Blocks</key>
+		<string>[</string>
+		<key>Close Statement Blocks</key>
+		<string>]</string>
+		<key>Open Block Comments</key>
+		<string>\\</string>
+		<key>Close Block Comments</key>
+		<string>\</string>
+		<key>Open Line Comments</key>
+		<string>REM</string>
+		<key>Open Strings 1</key>
+		<string>&quot;</string>
+		<key>Close Strings 1</key>
+		<string>&quot;</string>
+		<key>Escape Char in Strings 1</key>
+		<string></string>
+		<key>End-of-line Ends Strings 1</key>
+		<true/>
+		<key>Open Strings 2</key>
+		<string></string>
+		<key>Close Strings 2</key>
+		<string></string>
+		<key>Escape Char in Strings 2</key>
+		<string></string>
+		<key>End-of-line Ends Strings 2</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
